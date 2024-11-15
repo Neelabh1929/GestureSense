@@ -1,9 +1,9 @@
-#Smart Glove
+Smart Glove
 
 Contributors:
 Neelabh Rana
 
-Video LINK:  --
+Video Link:  --
 
 This Repo is for the Smart glove implementation done by me as a part of Exploration Project. 
 
@@ -17,7 +17,8 @@ To display the transmitted output, the Serial Bluetooth Terminal app (available 
 
 The primary objective of this project was to create a system that enables patients with certain disabilities to send emergency or essential messages effortlessly. This innovation allows them to connect with their caretakers immediately, improving communication and ensuring timely assistance.
 
-Scalability:
+SCALABILITY:
+
 >This technology has the potential to be expanded for more advanced assistive features in smart devices, enhancing their functionality and accessibility.
 
 >Number of gestures can be increased significantly by using binary codes and binary representation for each gesture.
