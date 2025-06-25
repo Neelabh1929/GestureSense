@@ -1,4 +1,4 @@
-Smart Glove
+GestureSense
 
 Contributors:
 Neelabh Rana
