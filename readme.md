@@ -2,6 +2,7 @@
 
 ## 👤 Contributors
 - Neelabh Rana
+- Aryan Rathod
 
 ## 🎥 Demo Video  
 [Click here to watch the video](https://github.com/Neelabh1929/GestureSense/blob/97ae6a5a36231d44118d7fba122cdf2b608d8ead/Docs/Video)
